@@ -1,0 +1,806 @@
+[
+    {
+        "name": "Star Wars: The Clone Wars (Movie)",
+        "number": 1,
+        "season": 0,
+        "date": "2008-08-15"
+    },
+    {
+        "name": "Ambush",
+        "number": 1,
+        "season": 1,
+        "date": "2008-10-03"
+    },
+    {
+        "name": "Rising Malevolence",
+        "number": 2,
+        "season": 1,
+        "date": "2008-10-03"
+    },
+    {
+        "name": "Shadow of Malevolence",
+        "number": 3,
+        "season": 1,
+        "date": "2008-10-10"
+    },
+    {
+      "name": "Destroy Malevolence",
+      "number": 4,
+      "season": 1,
+      "date": "2008-10-17"
+    },
+    {
+      "name": "Rookies",
+      "number": 5,
+      "season": 1,
+      "date": "2008-10-24"
+    },
+    {
+      "name": "Downfall of a Droid",
+      "number": 6,
+      "season": 1,
+      "date": "2008-11-07"
+    },
+    {
+      "name": "Duel of the Droids",
+      "number": 7,
+      "season": 1,
+      "date": "2008-11-14"
+    },
+    {
+      "name": "Bombad Jedi",
+      "number": 8,
+      "season": 1,
+      "date": "2008-11-21"
+    },
+    {
+      "name": "Cloak of Darkness",
+      "number": 9,
+      "season": 1,
+      "date": "2008-12-05"
+    },
+    {
+      "name": "Lair of Grievous",
+      "number": 10,
+      "season": 1,
+      "date": "2008-12-12"
+    },
+    {
+      "name": "Dooku Captured",
+      "number": 11,
+      "season": 1,
+      "date": "2009-01-02"
+    },
+    {
+      "name": "The Gungan General",
+      "number": 12,
+      "season": 1,
+      "date": "2009-01-09"
+    },
+    {
+      "name": "Jedi Crash",
+      "number": 13,
+      "season": 1,
+      "date": "2009-01-16"
+    },
+    {
+      "name": "Defenders of Peace",
+      "number": 14,
+      "season": 1,
+      "date": "2009-01-23"
+    },
+    {
+      "name": "Trespass",
+      "number": 15,
+      "season": 1,
+      "date": "2009-01-30"
+    },
+    {
+      "name": "The Hidden Enemy",
+      "number": 16,
+      "season": 1,
+      "date": "2009-02-06"
+    },
+    {
+      "name": "Blue Shadow Virus",
+      "number": 17,
+      "season": 1,
+      "date": "2009-02-13"
+    },
+    {
+      "name": "Mystery of a Thousand Moons",
+      "number": 18,
+      "season": 1,
+      "date": "2009-02-13"
+    },
+    {
+      "name": "Storm Over Ryloth",
+      "number": 19,
+      "season": 1,
+      "date": "2009-02-27"
+    },
+    {
+      "name": "Innocents of Ryloth",
+      "number": 20,
+      "season": 1,
+      "date": "2009-03-06"
+    },
+    {
+      "name": "Liberty on Ryloth",
+      "number": 21,
+      "season": 1,
+      "date": "2009-03-13"
+    },
+    {
+      "name": "Hostage Crisis",
+      "number": 22,
+      "season": 1,
+      "date": "2009-03-20"
+    },
+    {
+      "name": "Holocron Heist",
+      "number": 1,
+      "season": 2,
+      "date": "2009-10-02"
+    },
+    {
+      "name": "Cargo of Doom",
+      "number": 2,
+      "season": 2,
+      "date": "2009-10-02"
+    },
+    {
+      "name": "Children of the Force",
+      "number": 3,
+      "season": 2,
+      "date": "2009-10-09"
+    },
+    {
+      "name": "Senate Spy",
+      "number": 4,
+      "season": 2,
+      "date": "2009-10-16"
+    },
+    {
+      "name": "Landing at Point Rain",
+      "number": 5,
+      "season": 2,
+      "date": "2009-11-04"
+    },
+    {
+      "name": "Weapons Factory",
+      "number": 6,
+      "season": 2,
+      "date": "2009-11-13"
+    },
+    {
+      "name": "Legacy of Terror",
+      "number": 7,
+      "season": 2,
+      "date": "2009-11-20"
+    },
+    {
+      "name": "Brain Invaders",
+      "number": 8,
+      "season": 2,
+      "date": "2009-12-04"
+    },
+    {
+      "name": "Grievous Intrigue",
+      "number": 9,
+      "season": 2,
+      "date": "2010-01-01"
+    },
+    {
+      "name": "The Deserter",
+      "number": 10,
+      "season": 2,
+      "date": "2010-01-01"
+    },
+    {
+      "name": "Lightsaber Lost",
+      "number": 11,
+      "season": 2,
+      "date": "2010-01-22"
+    },
+    {
+      "name": "The Mandalore Plot",
+      "number": 12,
+      "season": 2,
+      "date": "2010-01-29"
+    },
+    {
+      "name": "Voyage of Temptation",
+      "number": 13,
+      "season": 2,
+      "date": "2010-02-05"
+    },
+    {
+      "name": "Duchess of Mandalore",
+      "number": 14,
+      "season": 2,
+      "date": "2010-02-12"
+    },
+    {
+      "name": "Senate Murders",
+      "number": 15,
+      "season": 2,
+      "date": "2010-03-19"
+    },
+    {
+      "name": "Cat and Mouse",
+      "number": 16,
+      "season": 2,
+      "date": "2010-03-26"
+    },
+    {
+      "name": "Bounty Hunters",
+      "number": 17,
+      "season": 2,
+      "date": "2010-04-02"
+    },
+    {
+      "name": "The Zillo Beast",
+      "number": 18,
+      "season": 2,
+      "date": "2010-04-09"
+    },
+    {
+      "name": "The Zillo Beast Strikes Back",
+      "number": 19,
+      "season": 2,
+      "date": "2010-04-16"
+    },
+    {
+      "name": "Death Trap",
+      "number": 20,
+      "season": 2,
+      "date": "2010-04-23"
+    },
+    {
+      "name": "R2 Come Home",
+      "number": 21,
+      "season": 2,
+      "date": "2010-04-30"
+    },
+    {
+      "name": "Lethal Trackdown",
+      "number": 22,
+      "season": 2,
+      "date": "2010-04-30"
+    },
+    {
+      "name": "Clone Cadets",
+      "number": 1,
+      "season": 3,
+      "date": "2010-09-17"
+    },
+    {
+      "name": "ARC Troopers",
+      "number": 2,
+      "season": 3,
+      "date": "2010-09-17"
+    },
+    {
+      "name": "Supply Lines",
+      "number": 3,
+      "season": 3,
+      "date": "2010-09-24"
+    },
+    {
+      "name": "Sphere of Influence",
+      "number": 4,
+      "season": 3,
+      "date": "2010-10-01"
+    },
+    {
+      "name": "Corruption",
+      "number": 5,
+      "season": 3,
+      "date": "2010-10-08"
+    },
+    {
+      "name": "The Academy",
+      "number": 6,
+      "season": 3,
+      "date": "2010-10-15"
+    },
+    {
+      "name": "Assassin",
+      "number": 7,
+      "season": 3,
+      "date": "2010-10-22"
+    },
+    {
+      "name": "Evil Plans",
+      "number": 8,
+      "season": 3,
+      "date": "2010-11-05"
+    },
+    {
+      "name": "Hunt for Ziro",
+      "number": 9,
+      "season": 3,
+      "date": "2010-11-12"
+    },
+    {
+      "name": "Heroes on Both Sides",
+      "number": 10,
+      "season": 3,
+      "date": "2010-11-19"
+    },
+    {
+      "name": "Pursuit of Peace",
+      "number": 11,
+      "season": 3,
+      "date": "2010-12-03"
+    },
+    {
+      "name": "Nightsisters",
+      "number": 12,
+      "season": 3,
+      "date": "2011-01-07"
+    },
+    {
+      "name": "Monster",
+      "number": 13,
+      "season": 3,
+      "date": "2011-01-14"
+    },
+    {
+      "name": "Witches of the Mist",
+      "number": 14,
+      "season": 3,
+      "date": "2011-01-21"
+    },
+    {
+      "name": "Overlords",
+      "number": 15,
+      "season": 3,
+      "date": "2011-01-28"
+    },
+    {
+      "name": "Altar of Mortis",
+      "number": 16,
+      "season": 3,
+      "date": "2011-02-04"
+    },
+    {
+      "name": "Ghosts of Mortis",
+      "number": 17,
+      "season": 3,
+      "date": "2011-02-11"
+    },
+    {
+      "name": "The Citadel",
+      "number": 18,
+      "season": 3,
+      "date": "2011-02-18"
+    },
+    {
+      "name": "Counter Attack",
+      "number": 19,
+      "season": 3,
+      "date": "2011-03-04"
+    },
+    {
+      "name": "Citadel Rescue",
+      "number": 20,
+      "season": 3,
+      "date": "2011-03-11"
+    },
+    {
+      "name": "Padawan Lost",
+      "number": 21,
+      "season": 3,
+      "date": "2011-04-01"
+    },
+    {
+      "name": "Wookiee Hunt",
+      "number": 22,
+      "season": 3,
+      "date": "2011-04-01"
+    },
+    {
+      "name": "Water War",
+      "number": 1,
+      "season": 4,
+      "date": "2011-09-16"
+    },
+    {
+      "name": "Gungan Attack",
+      "number": 2,
+      "season": 4,
+      "date": "2011-09-16"
+    },
+    {
+      "name": "Prisoners",
+      "number": 3,
+      "season": 4,
+      "date": "2011-09-23"
+    },
+    {
+      "name": "Shadow Warrior",
+      "number": 4,
+      "season": 4,
+      "date": "2011-09-30"
+    },
+    {
+      "name": "Mercy Mission",
+      "number": 5,
+      "season": 4,
+      "date": "2011-10-07"
+    },
+    {
+      "name": "Nomad Droids",
+      "number": 6,
+      "season": 4,
+      "date": "2011-10-14"
+    },
+    {
+      "name": "Darkness on Umbara",
+      "number": 7,
+      "season": 4,
+      "date": "2011-10-28"
+    },
+    {
+      "name": "The General",
+      "number": 8,
+      "season": 4,
+      "date": "2011-11-04"
+    },
+    {
+      "name": "Plan of Dissent",
+      "number": 9,
+      "season": 4,
+      "date": "2011-11-11"
+    },
+    {
+      "name": "Carnage of Krell",
+      "number": 10,
+      "season": 4,
+      "date": "2011-11-18"
+    },
+    {
+      "name": "Kidnapped",
+      "number": 11,
+      "season": 4,
+      "date": "2011-11-25"
+    },
+    {
+      "name": "Slaves of the Republic",
+      "number": 12,
+      "season": 4,
+      "date": "2011-12-02"
+    },
+    {
+      "name": "Escape from Kadavo",
+      "number": 13,
+      "season": 4,
+      "date": "2012-01-06"
+    },
+    {
+      "name": "A Friend in Need",
+      "number": 14,
+      "season": 4,
+      "date": "2012-01-13"
+    },
+    {
+      "name": "Deception",
+      "number": 15,
+      "season": 4,
+      "date": "2012-01-20"
+    },
+    {
+      "name": "Friends and Enemies",
+      "number": 16,
+      "season": 4,
+      "date": "2012-01-27"
+    },
+    {
+      "name": "The Box",
+      "number": 17,
+      "season": 4,
+      "date": "2012-02-03"
+    },
+    {
+      "name": "Crisis on Naboo",
+      "number": 18,
+      "season": 4,
+      "date": "2012-02-10"
+    },
+    {
+      "name": "Massacre",
+      "number": 19,
+      "season": 4,
+      "date": "2012-02-24"
+    },
+    {
+      "name": "Bounty",
+      "number": 20,
+      "season": 4,
+      "date": "2012-03-02"
+    },
+    {
+      "name": "Brothers",
+      "number": 21,
+      "season": 4,
+      "date": "2012-03-09"
+    },
+    {
+      "name": "Revenge",
+      "number": 22,
+      "season": 4,
+      "date": "2012-03-16"
+    },
+    {
+      "name": "Revival",
+      "number": 1,
+      "season": 5,
+      "date": "2012-09-29"
+    },
+    {
+      "name": "A War on Two Fronts",
+      "number": 2,
+      "season": 5,
+      "date": "2012-10-06"
+    },
+    {
+      "name": "Front Runners",
+      "number": 3,
+      "season": 5,
+      "date": "2012-10-13"
+    },
+    {
+      "name": "The Soft War",
+      "number": 4,
+      "season": 5,
+      "date": "2012-10-20"
+    },
+    {
+      "name": "Tipping Points",
+      "number": 5,
+      "season": 5,
+      "date": "2012-10-27"
+    },
+    {
+      "name": "The Gathering",
+      "number": 6,
+      "season": 5,
+      "date": "2012-11-03"
+    },
+    {
+      "name": "A Test of Strength",
+      "number": 7,
+      "season": 5,
+      "date": "2012-11-10"
+    },
+    {
+      "name": "Bound for Rescue",
+      "number": 8,
+      "season": 5,
+      "date": "2012-11-17"
+    },
+    {
+      "name": "A Necessary Bond",
+      "number": 9,
+      "season": 5,
+      "date": "2012-11-24"
+    },
+    {
+      "name": "Secret Weapons",
+      "number": 10,
+      "season": 5,
+      "date": "2012-12-01"
+    },
+    {
+      "name": "A Sunny Day in the Void",
+      "number": 11,
+      "season": 5,
+      "date": "2012-12-08"
+    },
+    {
+      "name": "Missing in Action",
+      "number": 12,
+      "season": 5,
+      "date": "2013-01-05"
+    },
+    {
+      "name": "Point of No Return",
+      "number": 13,
+      "season": 5,
+      "date": "2013-01-12"
+    },
+    {
+      "name": "Eminence",
+      "number": 14,
+      "season": 5,
+      "date": "2013-01-19"
+    },
+    {
+      "name": "Shades of Reason",
+      "number": 15,
+      "season": 5,
+      "date": "2013-01-26"
+    },
+    {
+      "name": "The Lawless",
+      "number": 16,
+      "season": 5,
+      "date": "2013-02-02"
+    },
+    {
+      "name": "Sabotage",
+      "number": 17,
+      "season": 5,
+      "date": "2013-02-09"
+    },
+    {
+      "name": "The Jedi Who Knew Too Much",
+      "number": 18,
+      "season": 5,
+      "date": "2013-02-16"
+    },
+    {
+      "name": "To Catch a Jedi",
+      "number": 19,
+      "season": 5,
+      "date": "2013-02-23"
+    },
+    {
+      "name": "The Wrong Jedi",
+      "number": 20,
+      "season": 5,
+      "date": "2013-03-02"
+    },
+    {
+      "name": "The Unknown",
+      "number": 1,
+      "season": 6,
+      "date": "2014-03-07"
+    },
+    {
+      "name": "Conspiracy",
+      "number": 2,
+      "season": 6,
+      "date": "2014-03-07"
+    },
+    {
+      "name": "Fugitive",
+      "number": 3,
+      "season": 6,
+      "date": "2014-03-07"
+    },
+    {
+      "name": "Orders",
+      "number": 4,
+      "season": 6,
+      "date": "2014-03-07"
+    },
+    {
+      "name": "An Old Friend",
+      "number": 5,
+      "season": 6,
+      "date": "2014-03-07"
+    },
+    {
+      "name": "The Rise of Clovis",
+      "number": 6,
+      "season": 6,
+      "date": "2014-03-07"
+    },
+    {
+      "name": "Crisis at the Heart",
+      "number": 7,
+      "season": 6,
+      "date": "2014-03-07"
+    },
+    {
+      "name": "The Disappeared, Part I",
+      "number": 8,
+      "season": 6,
+      "date": "2014-03-07"
+    },
+    {
+      "name": "The Disappeared, Part II",
+      "number": 9,
+      "season": 6,
+      "date": "2014-03-07"
+    },
+    {
+      "name": "The Lost One",
+      "number": 10,
+      "season": 6,
+      "date": "2014-03-07"
+    },
+    {
+      "name": "Voices",
+      "number": 11,
+      "season": 6,
+      "date": "2014-03-07"
+    },
+    {
+      "name": "Destiny",
+      "number": 12,
+      "season": 6,
+      "date": "2014-03-07"
+    },
+    {
+      "name": "Sacrifice",
+      "number": 13,
+      "season": 6,
+      "date": "2014-03-07"
+    },
+    {
+      "name": "The Bad Batch",
+      "number": 1,
+      "season": 7,
+      "date": "2020-02-21"
+    },
+    {
+      "name": "A Distant Echo",
+      "number": 2,
+      "season": 7,
+      "date": "2020-02-28"
+    },
+    {
+      "name": "On the Wings of Keeradaks",
+      "number": 3,
+      "season": 7,
+      "date": "2020-03-06"
+    },
+    {
+      "name": "Unfinished Business",
+      "number": 4,
+      "season": 7,
+      "date": "2020-03-13"
+    },
+    {
+      "name": "Gone with a Trace",
+      "number": 5,
+      "season": 7,
+      "date": "2020-03-20"
+    },
+    {
+      "name": "Deal No Deal",
+      "number": 6,
+      "season": 7,
+      "date": "2020-03-27"
+    },
+    {
+      "name": "Dangerous Debt",
+      "number": 7,
+      "season": 7,
+      "date": "2020-04-03"
+    },
+    {
+      "name": "Together Again",
+      "number": 8,
+      "season": 7,
+      "date": "2020-04-10"
+    },
+    {
+      "name": "Old Friends Not Forgotten",
+      "number": 9,
+      "season": 7,
+      "date": "2020-04-17"
+    },
+    {
+      "name": "The Phantom Apprentice",
+      "number": 10,
+      "season": 7,
+      "date": "2020-04-24"
+    },
+    {
+      "name": "Shattered",
+      "number": 11,
+      "season": 7,
+      "date": "2020-05-01"
+    },
+    {
+      "name": "Victory and Death",
+      "number": 12,
+      "season": 7,
+      "date": "2020-05-04"
+    }
+  ]
