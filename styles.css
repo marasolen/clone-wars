@@ -20,8 +20,9 @@ body {
 }
 
 .visualization-container {
-    width: 100%;
 	align-items: center;
+    overflow-y: hidden;
+    overflow-x: scroll;
 }
 
 .visualization {

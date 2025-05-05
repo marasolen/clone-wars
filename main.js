@@ -10,7 +10,7 @@ const resizeAndRender = () => {
     renderVisualization();
 
     d3.selectAll("text")
-        .attr("font-size", function() { return d3.select(this).attr("text-multiplier") * 0.008 * document.getElementById("saber-visualization-container").clientWidth });
+        .attr("font-size", function() { return d3.select(this).attr("text-multiplier") * 0.008 * document.getElementById("saber-visualization").clientWidth });
 
     d3.select("#tooltip")
         .style("border-radius", 0.02 * document.getElementById("saber-visualization-container").clientHeight + "px");
@@ -159,7 +159,8 @@ const renderSaberVisualization = () => {
         .attr("class", "year-text")
         .attr("fill", "white")
         .attr("text-anchor", "middle")
-        .attr("transform", d => `translate(${xScale(d.toDate())}, ${height})`)
+        .attr("transform", d => `translate(${xScale(d.toDate())}, ${yScale(-5)})`)
+        .attr("text-multiplier", 1)
         .text(d => d.format("YYYY"))
 };
 
